@@ -41,6 +41,6 @@ Each “data” contains:
 –	age of the participant. 
 
 ## Furter details
-1. Arpaia, P., Coyle, D., Donnarumma, F., Esposito, A., Natalizio, A., & Parvis, M. (2023). Visual and haptic feedback in detecting motor imagery within a wearable brain–computer interface. Measurement, 206, 112304.
+1. Arpaia, P., Coyle, D., Donnarumma, F., Esposito, A., Natalizio, A., & Parvis, M. (2023). Visual and haptic feedback in detecting motor imagery within a wearable brain–computer interface. Measurement, 206, 112304 [https://doi.org/10.1016/j.measurement.2022.112304](https://doi.org/10.1016/j.measurement.2022.112304)
 
-2. "Motor imagery brain-computer interface and extended reality" project on ResearchGate
+2. "Motor imagery brain-computer interface and extended reality" [project on ResearchGate](https://www.researchgate.net/project/Motor-imagery-brain-computer-interface-and-extended-reality)
