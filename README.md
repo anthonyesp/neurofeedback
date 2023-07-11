@@ -43,4 +43,4 @@ Each “data” contains:
 ## Furter details
 1. Arpaia, P., Coyle, D., Donnarumma, F., Esposito, A., Natalizio, A., & Parvis, M. (2023). Visual and haptic feedback in detecting motor imagery within a wearable brain–computer interface. Measurement, 206, 112304 [https://doi.org/10.1016/j.measurement.2022.112304](https://doi.org/10.1016/j.measurement.2022.112304)
 
-2. Arpaia, P., Coyle, D., Esposito, A., Natalizio, A., Parvis, M., Pesola, M. and Vallefuoco, E., 2023. Paving the Way for Motor Imagery-Based Tele-Rehabilitation through a Fully Wearable BCI System. Sensors, 23(13), p.5836 [https://doi.org/10.3390/s23135836](https://doi.org/10.3390/s23135836)
+2. Arpaia, P., Coyle, D., Esposito, A., Natalizio, A., Parvis, M., Pesola, M. and Vallefuoco, E., (2023). Paving the Way for Motor Imagery-Based Tele-Rehabilitation through a Fully Wearable BCI System. Sensors, 23(13), p.5836 [https://doi.org/10.3390/s23135836](https://doi.org/10.3390/s23135836)
